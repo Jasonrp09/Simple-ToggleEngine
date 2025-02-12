@@ -6,7 +6,7 @@
  ox_lib: https://github.com/overextended/ox_lib  
  
  # Performance
- Resmon not in Car: 0ms 
+ Resmon out of Car: 0ms 
 
  Resmon in Car: 02-04ms      
  
